@@ -1,4 +1,7 @@
 # Todo Kanban App With MongoDB
+
+> [Link to live app preview](https://app.appsmith.com/app/todo-kanban-app-with-mongodb/app-62fe22e384757e0c05554666)
+
 This app was built with Appsmith and MongoDB, and was built live in [How To Build A Kanban Board Todo App With MongoDB
 ](https://youtu.be/xr0s4fWq86w) livestream.
 
